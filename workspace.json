@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "17d319fbf1f18863",
+    "type": "split",
+    "children": [
+      {
+        "id": "918893a2b838d6e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c29f0fd1ccb0e960",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cca89e797bf9c46",
+    "type": "split",
+    "children": [
+      {
+        "id": "9afe2c9b7f368ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed912db945197b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6a46bd780acdd84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Основныесвойства",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5f6df0dd83bb937",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a70dcccea5c8f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "779af94890a771fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4355f847840f913a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc52a65cf140a45a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1a3689752bced76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "197d458dab53e380",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "8ed912db945197b4",
+  "lastOpenFiles": [
+    "README.md",
+    "4. Геометрическая оптика/img4/Pasted image 20240523190046.png",
+    "4. Геометрическая оптика/img4/Pasted image 20240523185831.png",
+    "4. Геометрическая оптика/README.md",
+    "4. Геометрическая оптика/img4",
+    "4. Геометрическая оптика",
+    "3. Прохождение света через границу раздела двух сред/img3/Pasted image 20240523184811.png",
+    "3. Прохождение света через границу раздела двух сред/README.md",
+    "3. Прохождение света через границу раздела двух сред/img3",
+    "3. Прохождение света через границу раздела двух сред",
+    "2. Энергетика световых волн/img2/Pasted image 20240523184113.png",
+    "2. Энергетика световых волн/img2/Pasted image 20240523184031.png",
+    "2. Энергетика световых волн/README.md",
+    "2. Энергетика световых волн/img2",
+    "2. Энергетика световых волн",
+    "1. Описание световых волн/img1/Pasted image 20240523183700.png",
+    "1. Описание световых волн/img1/Pasted image 20240523182716.png",
+    "1. Описание световых волн/img1",
+    "1. Описание световых волн/README.md",
+    "1. Описание световых волн",
+    "Без названия.md",
+    "Pasted image 20240523182841.png",
+    "Без названия"
+  ]
+}
